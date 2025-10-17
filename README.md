@@ -1,5 +1,5 @@
 # Temporary_test_repo_for_Discord_friends
-# Email_and_password pishing templates for replac deafult content in /ag1/www/
+# Email_and_password phishing templates to replace  with deafult content in /ag1/www/
 - when evil twin attack is running.
 - if user got airgeddon https plugin those themplates will bypass http warnings etc.
 - if not , they at leat also overitte desdult airgeddon text displayed for user after login.
@@ -14,7 +14,7 @@
 - I just like todo some small fix first.
 - Email validation , confirme password etc is added to
 - make templates more legit and not raise suspicion to the victims.
-- Emsil and password wild popup in a txt file at you Desktop.
+- Emsil and password will popup in a .txt file at you Desktop.
 - Images of the 2 templates Pishing templates as user see them:
 
 - ![Hotel Image](hotel.jpeg)   ![Concert Image](concert.jpeg)
