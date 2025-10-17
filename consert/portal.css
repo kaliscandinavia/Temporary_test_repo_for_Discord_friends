@@ -1,0 +1,62 @@
+/* portal.css */
+body * {
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.img {
+width: 100%;
+}
+    .h1 {
+      text-align: center;
+    color: white; 
+    margin-top: 50px;
+  
+} 
+.wifi_logo {
+ width:30px;
+  height:50px
+}
+.content {
+text-align: center;
+
+    width: 100%;
+    background-color: grey; 
+    padding: 20px;
+    margin: 15px auto 0;
+    border-radius: 15px;
+    color: #000000; 
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.Email {
+    width: 80%; 
+    margin-bottom: 5px;
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+}
+.passWord {
+    width: 80%; 
+    margin-bottom: 5px;
+    border-radius: 5px;
+    height: 30px;
+      cursor: pointer;
+}
+
+.passWord:hover,
+.passWord:focus {
+    box-shadow: 0 0 10px #69f0ae;
+}
+
+.suBmitbutton {
+    color: #ffffff;
+    background-color: green;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+    width: 30%;  
+     margin-left: 50px;
+}
