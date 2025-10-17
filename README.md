@@ -9,12 +9,14 @@
 - If any question hit mee up on Dicord , or use the email found at my github.
 - Remenber , you only need to replace the image and text too test against other target like scool etc,
 - and how you get permission is off-topic for mee...it's you problem:)
-- Templates to drop in xpz3 custom portals will be added and to this repo.
-- I let it stayt for a week or two , then replaced it with the final email-pishing repo,
+- Templates to be used / dropped  in airgeddon/plugins/customportals will be added to this repo in a day or 2.
+- I let repo stay for a week or two , then it will be replaced with a final email-pishing repo,
 - I just like todo some small fix first.
 - Email validation , confirme password etc is added to
 - make templates more legit and not raise suspicion to the victims.
-- Emsil and password will popup in a .txt file at you Desktop.
+- Email and password will popup in a .txt file at you Desktop.
+- .txt file will have name "password" for the email,  below is emails "password",
+- this becaude of the way airgeddon handle postdata .( Migth be fixed in final repo)
 - Images of the 2 templates Pishing templates as user see them:
 
 - ![Hotel Image](hotel.jpeg)   ![Concert Image](concert.jpeg)
