@@ -11,7 +11,7 @@ Video is in spanish, forget everything    else then how to replace all files in 
   I just like to fix small things first.
 - Email validation, confirme password etc is aldeady added to make templates act more legit and less suspicion for victims.
 - Email & password typed will popup in a  txt file at you Desktop.
-- Images of the 2 phishing templates as user see them in his phone
+- Images of the 2 phishing templates how they look on victims phone
 - ![Hotel Image](hotel.jpeg)   ![Concert Image](concert.jpeg)
 
  - Video who shows how & where to add the templates;
