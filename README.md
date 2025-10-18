@@ -4,7 +4,7 @@
 - In the images I did so,+ https_plugin.
    Only hackers mind limited way of use.
   e.g  QR code was used to test "consert".
-- If  hacker got airgeddon https plugin  templates will bypass http warnings etc. Whiteout https-plugin templates still capture credentials & overitte deafult text displayed for user, no check php.
+- If  hacker got airgeddon https plugin  templates will bypass http warnings etc. Whiteout https-plugin templates still capture credentials & overitte deafult text displayed for user(no check.php)
 - if you'r not sure how to replace the files, se video below to get an idé.
 Video is in spanish, forget everything    else then how to replace all files in ag1/www folder as code in video is very different and for AP password only.
  The www folder must bee open as root to replace all files in /www folder.
