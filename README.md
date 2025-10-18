@@ -1,6 +1,10 @@
 # Temporary_test_repo_for_Discord_friends
 # Email_and_password phishing templates to replace  with the deafult content in /ag1/www/ when evil twin attack is running
-- if user got airgeddon https plugin those templates will bypass http warnings etc. Whiteout https-plugin templates still capture credentials & overitte deafult text displayed for user after submit.
+- The templates can be tested on you own router, OR by deauth a Hotel / School etc router, OR by name you (portable) router to Hotel/School AP to fake a senario 100% legit by show target AP name displayed as available AP,insted of a router name.
+- In the images I did so,+ https_plugin.
+   Only hackers mind limited way of use.
+  e.g  QR code was used to test "consert".
+- If  hacker got airgeddon https plugin  templates will bypass http warnings etc. Whiteout https-plugin templates still capture credentials & overitte deafult text displayed for user, no check php.
 - if you'r not sure how to replace the files, se video below to get an idé.
 Video is in spanish, forget everything    else then how to replace all files in ag1/www folder as code in video is very different and for AP password only.
  The www folder must bee open as root to replace all files in /www folder.
