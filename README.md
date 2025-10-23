@@ -12,8 +12,8 @@ Video is in spanish, forget everything    else then how to replace all files in 
  The www folder must bee open as root to replace all files in ag1/www folder.
 - If any question hit mee up on Dicord , - - or use email found at github overview.
 - Remenber, you only need to replace image - and text to test against other targets,    like a school or whatever
-- Templates for use  in                airgeddon/plugins/customportals will be added to this repo in a week or so.
-- This temporary repo will be replaced with a final email-pishing repo later.
+- Will try to make similar for use in          airgeddon/plugins/customportals.
+  Temporary repo will be replaced with a final email-pishing repo later.
 - Email validation, confirme password etc is aldeady added to make templates act more legit and less suspicion for victims.
 - Email & password typed will popup in a  txt file at you Desktop.
 - Images of the 2 phishing templates & how they look on victims phone
