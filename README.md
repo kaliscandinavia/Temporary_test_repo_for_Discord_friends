@@ -1,5 +1,5 @@
 - Busy with wpa3 testing until 1/11-25
-- Updat/xpz3 customportals must wait.
+- email-pishing as customportals on hold.
 # Temporary_test_repo_for_Discord_friends
 # Email_and_password phishing templates to replace  with the deafult content in /ag1/www/ when evil twin attack is running
 - The templates can be tested on you own router, OR by deauth a Hotel / School etc router, OR by name you (portable) router to Hotel/School AP to fake a senario 100% legit by show target AP name displayed as available AP,insted of a router name.
