@@ -20,4 +20,4 @@
 - https://www.youtube.com/watch?v=fbmnzlNBIE0
 - NB: This repo wil bee replaced with a new when small-fix is done.
 <br><br>
-<p algin-text="center" (<a href="#top" >Back To Line 1</a>)</p>
+<p align="center">(<a href="#top" >Go Up To Line 1</a>)</p>
