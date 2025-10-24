@@ -1,8 +1,8 @@
-- Busy with wpa3 testing until 7/11-25 [Back to Line 1](#top)
+- Busy with wpa3 testing until 7/11-25 <a id="top"></a>
 - email-pishing as customportals on hold.
 # Temporary_test_repo_for_Discord_friends
 # Email_and_password phishing templates to replace  with the deafult content in /ag1/www/ when evil twin attack is running
-- The https_plugin is used in the images.
+- The https_plugin is used in the imaes.
 - Only hackers mind limited way of use.
   e.g  QR code was used to test "consert".
 - airgeddon https plugin templates bypass http warnings etc. Whiteout https-plugin templates still capture credentials & avoid check.php/ update.php  so php files don't interrupt email_phishing files.
@@ -19,5 +19,5 @@
  - Video who shows how & where to replace all files in the ag1/www folder.Se from minut ~ 13.00:
 - https://www.youtube.com/watch?v=fbmnzlNBIE0
 - NB: This repo wil bee replaced with a new when small-fix is done.
-
-<a id="top" >Back To Line 1</a>
+<br><br>
+<p algin-text="center" (<a href="#top" >Back To Line 1</a>)</p>
